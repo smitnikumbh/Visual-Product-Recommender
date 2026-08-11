@@ -154,7 +154,7 @@ streamlit run app/streamlit_app.py
 ## 👨‍💻 Author
 
 **Smit Nikumbh** — MCA II, MIT World Peace University, Pune  
-Brand: SupnistiQ Labs
+
 
 ---
 
